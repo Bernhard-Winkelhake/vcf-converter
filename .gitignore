@@ -1,0 +1,10 @@
+# Excel-Dateien
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xltx
+*.xltm
+*.xlam
+*.xla
+*.vcf
